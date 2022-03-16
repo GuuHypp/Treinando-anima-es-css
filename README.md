@@ -1,2 +1,2 @@
-# Treinando-anima-es-css
+# Treinando-animações-css
 Aprendendo sobre animações em CSS
